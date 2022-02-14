@@ -1,4 +1,4 @@
-## Pet app (My companion)
+## My Companion
 
 My Companion is a mobile oriented website to keep track of pet data, such as vet appointments and medication. Users can create scheduled reminders, update pet data, track medication and appointments, and visualize pet weight gain/loss on a responsive chart.
 
