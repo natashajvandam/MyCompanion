@@ -1,8 +1,6 @@
-# Codeworks - Solo project
-
 ## Pet app (My companion)
 
-This website was created during Codeworks bootcamp, in a week in order to practice and test coding skills. The website is mobile oriented and helps to keep track of your Dogs data.
+My Companion is a mobile oriented website to keep track of pet data, such as vet appointments and medication. Users can create scheduled reminders, update pet data, track medication and appointments, and visualize pet weight gain/loss on a responsive chart.
 
 # Instructions
 
